@@ -4,9 +4,9 @@
 1. MyFrameWork GameObject를 선택해서 인스펙터창에 있는 생성 버튼으로 생성
 2. 게임 시작시 자동으로 생성
 
-![생성버튼1](https://github.com/SooWanKim/recruit/blob/master/dev-zed/assignment/%EB%85%B9%ED%99%94_2021_06_29_19_10_45_813.gif)
+![생성버튼1]https://github.com/SooWanKim/MakeBuildingInUnity/blob/master/%EB%85%B9%ED%99%94_2021_06_29_19_10_45_813.gif)
 
-![생성버튼2](https://github.com/SooWanKim/recruit/blob/master/dev-zed/assignment/%EB%85%B9%ED%99%94_2021_06_29_19_11_33_888.gif)
+![생성버튼2](https://github.com/SooWanKim/MakeBuildingInUnity/blob/master/%EB%85%B9%ED%99%94_2021_06_29_19_11_33_888.gif)
 
 
 # 문제 해결 방법
