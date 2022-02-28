@@ -1,5 +1,5 @@
 # 설명
- json data에서 vertex, uv 정보를 읽어와 건물 Mesh 생성 
+ json data에서 base64로 인코딩된 vertex정보를 읽어와서 건물 Mesh 생성 
 
 **생성 방법**
 1. MyFrameWork GameObject를 선택해서 인스펙터창에 있는 생성 버튼으로 생성
